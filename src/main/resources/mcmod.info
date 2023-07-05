@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "swift",
+        "name": "Swift",
+        "description": "",
+        "version": "${version}",
+        "mcversion": "1.12.2",
+        "url": "",
+        "updateUrl": "",
+        "authorList": ["hollow", "chardnol"],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
