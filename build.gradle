@@ -23,7 +23,7 @@ apply plugin: 'com.github.johnrengelman.shadow'
 
 version = "1.12.2"
 group = "me.pignol"
-archivesBaseName = "trollgod-pigs.cc-edition"
+archivesBaseName = "ISmokedToMuchSlop"
 
 sourceCompatibility = targetCompatibility = '1.8'
 compileJava {
